@@ -19,7 +19,7 @@ format-links: [pdf]
 ```{python}
 #| tags: [parameters]
 
-email = 'j@jhathaway.io'
+email = 'prattjds@gmail.com'
 github = 'hathawayj'
 linkedin =  'hathawayj'
 telephone = '208.932.8306'
